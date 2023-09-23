@@ -1,6 +1,7 @@
 @back NightHouse
+@bgm Forg
 @char Mika.normal
  Buenas tardes a todos, mi nombre es Mika y hoy estoy emocionada de estar aquí frente a todos ustedes. Quiero compartir un poco sobre quién soy y qué me motiva.
-@char Mika.laugh
+@char Mika.laugh pos:10,-10 
 Desde que era niña, siempre he sentido una fuerte conexión con el arte y la creatividad. Pintar, dibujar y explorar diferentes formas de expresión visual han sido una parte fundamental de mi vida.
 @stop
